@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/RocketCamp_React_todolist/static/css/main.a694b72f.css",
-    "main.js": "/RocketCamp_React_todolist/static/js/main.1885d777.js",
+    "main.js": "/RocketCamp_React_todolist/static/js/main.2754012a.js",
     "static/js/787.436491ed.chunk.js": "/RocketCamp_React_todolist/static/js/787.436491ed.chunk.js",
     "static/media/work.svg": "/RocketCamp_React_todolist/static/media/work.86eb55aff2f145f96a789899f3c4a090.svg",
     "static/media/logo.svg": "/RocketCamp_React_todolist/static/media/logo.46dbac42bc7525d9fc6b.svg",
     "static/media/logo_lg.svg": "/RocketCamp_React_todolist/static/media/logo_lg.5a827d3ecea204e51d766e6ee6b52d56.svg",
     "index.html": "/RocketCamp_React_todolist/index.html",
     "main.a694b72f.css.map": "/RocketCamp_React_todolist/static/css/main.a694b72f.css.map",
-    "main.1885d777.js.map": "/RocketCamp_React_todolist/static/js/main.1885d777.js.map",
+    "main.2754012a.js.map": "/RocketCamp_React_todolist/static/js/main.2754012a.js.map",
     "787.436491ed.chunk.js.map": "/RocketCamp_React_todolist/static/js/787.436491ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a694b72f.css",
-    "static/js/main.1885d777.js"
+    "static/js/main.2754012a.js"
   ]
 }

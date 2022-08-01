@@ -1,5 +1,6 @@
 {
   "name": "todolist_scss",
+  "homepage": "https://doraHLC.github.io/RocketCamp_React_todolist",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
